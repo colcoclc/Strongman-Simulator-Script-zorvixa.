@@ -1,2 +1,2 @@
 local zor = loadstring(game:HttpGet("https://raw.githubusercontent.com/colcoclc/bruh/refs/heads/main/strongman.lua"))()
-zor:Run("URscXU1YVE9YAVRNSQYXVlEcVgZXHxlVEV9THFReXR0=")()
+zor:Run("XRxIV0xdVxlYVVdBQ1ZFDVUfVwFXT0IFRQtVTVVWAh0=")()
