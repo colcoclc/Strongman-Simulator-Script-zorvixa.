@@ -1,2 +1,2 @@
-local zay = loadstring(game:HttpGet("https://raw.githubusercontent.com/colcoclc/bruh/refs/heads/main/strongman.lua"))()
-zay:Run("VR9JXBdZVE1SVVwbTgEUCQZKWAIGHxtWFlxTSQUGUEA=")()
+local zor = loadstring(game:HttpGet("https://raw.githubusercontent.com/colcoclc/bruh/refs/heads/main/strongman.lua"))()
+zor:Run("URscXU1YVE9YAVRNSQYXVlEcVgZXHxlVEV9THFReXR0=")()
